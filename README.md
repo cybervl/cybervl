@@ -10,6 +10,7 @@ Azure Network Security Project
 
 <h2> 🤳 Connect with me:</h2>
 
+GRC Lab project
 
 - [My Linkedin](https://www.linkedin.com/in/victorialiu23/)
 
