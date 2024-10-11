@@ -9,8 +9,7 @@ Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management]
 
 <h2> 🤳 Connect with me:</h2>
-- [My Linkedin](https://www.linkedin.com/in/victorialiu23/)
 
-
+- [Linkedin](https://linkedin.com/in/victorialiu23/)
 
 
