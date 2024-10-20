@@ -48,6 +48,9 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 - Member of Canadian Cybersecurity Network
 - Member of ISC2
 
+- SiberX Defend the North attendee
+- Sector 2024 attendee
+
 
 
 
