@@ -8,8 +8,11 @@
 
 <h2>👩🏻‍💻Cybersecurity Projects:</h2>
 
-Azure/cloud project
+Azure/Cloud Project
 - [Creating a live SOC/Honeynet in Azure](https://github.com/vicliulyc/cloud-soc)
+
+Windows Prefetch Project
+- [DFIR Lab for Expert Prefetch Analysis]()
 
 Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management]
