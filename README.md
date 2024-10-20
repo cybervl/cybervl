@@ -18,7 +18,10 @@ Windows Prefetch Project
 Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management]
 
+Windows SOAR EDR Project
+- 
 
+ 
 <h2> 🔴 Red Projects:</h2>
 
 -
