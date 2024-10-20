@@ -8,6 +8,8 @@
 
 <h2>👩🏻‍💻Cybersecurity Projects:</h2>
 
+**Blue Team Projects**
+
 Azure/Cloud Project
 - [Creating a live SOC/Honeynet in Azure](https://github.com/vicliulyc/cloud-soc)
 
@@ -16,6 +18,15 @@ Windows Prefetch Project
 
 Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management]
+
+
+**Red Team Projects**
+-
+
+
+
+**GRC Projects**
+-
 
 <h2> 🤳 Connect with me:</h2>
 
