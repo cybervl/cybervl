@@ -53,8 +53,10 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 
 
 
-
-
+## 💡 Additional Learning Resources:
+- Active involvement on TryHackMe
+- Participating on LetsDefend
+- currently learning on HackerOne
 
 # Languages: 
 Spoken: Mandarin(Native), English(Native), French (Conversational)
