@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victoria! A Passionate Cybersecurity Analyst :)
+<h1>Hi, I'm Victoria! 👩🏻‍💻A Passionate Cybersecurity Analyst :)
 
 
 
@@ -6,9 +6,8 @@
 
 
 
-<h2>👩🏻‍💻Cybersecurity Projects:</h2>
+<h2> 🔵 Blue Projects:</h2>
 
-**Blue Team Projects**
 
 Azure/Cloud Project
 - [Creating a live SOC/Honeynet in Azure](https://github.com/vicliulyc/cloud-soc)
@@ -20,12 +19,14 @@ Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management]
 
 
-**Red Team Projects**
+<h2> 🔴 Red Projects:</h2>
+
 -
 
 
 
-**GRC Projects**
+<h2> 📔 GRC Projects:</h2>
+
 -
 
 <h2> 🤳 Connect with me:</h2>
@@ -43,6 +44,9 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 
 
 ## Community Involvement & Conferences:
+- Member of Women in CyberSecurity
+- Member of Canadian Cybersecurity Network
+- Member of ISC2
 
 
 
@@ -51,7 +55,11 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 
 # Languages: 
 Spoken: Mandarin(Native), English(Native), French (Conversational)
+
 Programming: Python, Java, SQL, KQL
 
-Experiences: 
+# Experiences: 
 ->
+
+
+### Stay tuned for more :) ###
