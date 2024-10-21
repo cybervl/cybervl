@@ -16,7 +16,7 @@ Windows Prefetch Project
 - [DFIR Lab for Expert Prefetch Analysis](https://github.com/vicliulyc/prefetch) 
 
 Azure Network Security Project
-- [Network Security with OpenVAS Vulnerability Management]
+- [Network Security with OpenVAS Vulnerability Management](https://github.com/vicliulyc/openVAS/tree/main)
 
 Windows SOAR EDR Project
 - [Threat Detection and Incident Response project](https://github.com/vicliulyc/Windows-SOAR-EDR-Project)
