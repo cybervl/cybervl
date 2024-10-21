@@ -20,9 +20,11 @@ Azure Network Security Project
 
 Windows SOAR EDR Project
 - [Threat Detection and Incident Response project](https://github.com/vicliulyc/Windows-SOAR-EDR-Project)
+
 <h2> 🔴 Red Team Projects:</h2>
 
--
+Python Malware Lab
+- [Malware Analysis and Ransomware Simulation](https://github.com/vicliulyc/malware)
 
 
 
