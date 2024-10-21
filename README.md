@@ -19,9 +19,7 @@ Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management]
 
 Windows SOAR EDR Project
-- 
-
- 
+- [Threat Detection and incident response project](https://github.com/vicliulyc) 
 <h2> 🔴 Red Projects:</h2>
 
 -
