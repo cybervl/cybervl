@@ -6,7 +6,7 @@
 
 
 
-<h2> 🔵 Blue Projects:</h2>
+<h2> 🔵 Blue Team Projects:</h2>
 
 
 Azure/Cloud Project
@@ -20,7 +20,7 @@ Azure Network Security Project
 
 Windows SOAR EDR Project
 - [Threat Detection and Incident Response project](https://github.com/vicliulyc/Windows-SOAR-EDR-Project)
-<h2> 🔴 Red Projects:</h2>
+<h2> 🔴 Red Team Projects:</h2>
 
 -
 
