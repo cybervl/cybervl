@@ -52,7 +52,8 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 - SiberX Defend the North attendee
 - Sector 2024 attendee
 
-
+## My Cybersecurity Blog:
+- [Medium](https://medium.com/@vicliulyc)
 
 ## 💡 Additional Learning Resources:
 - Active involvement on TryHackMe
