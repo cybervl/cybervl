@@ -68,7 +68,7 @@ Spoken: Mandarin(Native), English(Native), French (Conversational)
 Programming: Python, Java, SQL, KQL
 
 # Experiences: 
--> For my Resume, please send me a message on Linkedin! 
+- For my resume, please send me a message on Linkedin! 
 
 
 ### Stay tuned for more :) ###
