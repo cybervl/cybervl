@@ -26,7 +26,8 @@ Windows SOAR EDR Project
 Python Malware Lab
 - [Malware Analysis and Ransomware Simulation](https://github.com/vicliulyc/malware)
 
-
+<h2> 🚨 Cyber Intelligence Projects:</h2>
+- 
 
 <h2> 📔 GRC Projects:</h2>
 
