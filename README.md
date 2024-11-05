@@ -26,6 +26,9 @@ Windows SOAR EDR Project
 Python Malware Lab
 - [Malware Analysis and Ransomware Simulation](https://github.com/vicliulyc/malware)
 
+A Raspberry Pi Hacking Project
+
+
 <h2> 🚨 Cyber Threat Intelligence Projects:</h2>
 
 - [Open-Source Intelligence Investigation Mini Labs](https://github.com/vicliulyc/OSINT)
