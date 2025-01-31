@@ -36,6 +36,9 @@ A Raspberry Pi Hacking Project
 
 - [Open-Source Intelligence Investigation Mini Labs](https://github.com/vicliulyc/OSINT)
 
+Threat Hunting Project
+- [Threat Hunting](
+
 <h2> 📔 GRC Projects:</h2>
 
 -
