@@ -26,6 +26,9 @@ Windows SOAR EDR Project
 Python Malware Lab
 - [Malware Analysis and Ransomware Simulation](https://github.com/vicliulyc/malware)
 
+Phishing Attack Stimulation
+- [Gophish Simulation](https://github.com/vicliulyc/malware)
+
 A Raspberry Pi Hacking Project
 
 
