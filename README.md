@@ -27,7 +27,7 @@ Python Malware Lab
 - [Malware Analysis and Ransomware Simulation](https://github.com/vicliulyc/malware)
 
 Phishing Attack Stimulation
-- [Gophish Simulation](https://github.com/vicliulyc/malware)
+- [Gophish Simulation](https://github.com/vicliulyc/Gophish)
 
 A Raspberry Pi Hacking Project
 
