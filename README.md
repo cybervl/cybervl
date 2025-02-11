@@ -15,7 +15,7 @@ Azure/Cloud Project
 Windows Prefetch Project
 - [DFIR Lab for Expert Prefetch Analysis](https://github.com/vicliulyc/prefetch) 
 
-Network Security Project
+Azure Network Security Project
 - [Network Security with OpenVAS Vulnerability Management](https://github.com/vicliulyc/openVAS/tree/main)
 - [Vulnerability Management with Tenable](https://github.com/vicliulyc/openVAS/tree/main)
 
