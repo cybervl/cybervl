@@ -22,7 +22,6 @@ Azure Network Security Project
 Windows SOAR EDR Project
 - [Threat Detection and Incident Response project](https://github.com/vicliulyc/Windows-SOAR-EDR-Project)
 
-Threat Hunting Detection 
 
 <h2> 🔴 Red Team Projects:</h2>
 
