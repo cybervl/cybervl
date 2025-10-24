@@ -58,6 +58,9 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 - [AIG- Sheilds Up: Cybersecurity by Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_5rtF2YqMkJLTYN3qs_1718173532004_completion_certificate.pdf)
 - [Google IT Support Professional Certificate by Coursera](https://www.coursera.org/account/accomplishments/professional-cert/JG2GKCEB495M)
 - [Google Data Analytics by Coursera](https://www.coursera.org/account/accomplishments/professional-cert/UREUQGWG5BEN)
+- [Oracle Cloud Infrastructure 2025 Foundations Associate: 1Z0-1085-25]
+- [Oracle Data Platform 2025 Foundations Associate: 1Z0-1195-25]
+- [Oracle Infrastructure 2024 AI Foundations: 1Z0-1122-23]
 
 
 ## Community Involvement & Conferences:
