@@ -68,6 +68,7 @@ Note: Right-click on each link and Open in a New Tab for verification and to mak
 - Member of Canadian Cybersecurity Network
 - Member of ISC2
 - Member of Leading Cyber Ladies
+- Researcher and Coordinator of Cybermindz
 
 - SiberX Defend the North attendee
 - Sector 2024 attendee
